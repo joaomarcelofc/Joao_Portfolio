@@ -15,7 +15,7 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/joao-marcelo-fonseca-cunha)
+* [LinkedIn](https://www.linkedin.com/in/joão-marcelo-fonseca-cunha-097776a2/)
 
 
 ## Projetos:
