@@ -20,4 +20,6 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 ## Projetos:
 
----
+* **Analisando dados do Airbnb de Atenas:** https://bit.ly/3AbYYd6
+
+----
