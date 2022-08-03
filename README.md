@@ -22,4 +22,6 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 * **Analisando dados do Airbnb de Atenas:** https://bit.ly/3AbYYd6
 
+* **Panorama do COVID-19 no Brasil e no mundo:** https://bit.ly/3bAjlqe
+
 ----
