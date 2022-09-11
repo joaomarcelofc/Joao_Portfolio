@@ -24,4 +24,6 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 * **Panorama do COVID-19 no Brasil e no mundo:** https://bit.ly/3Rfaiuo
 
+* **Analisando caixa de e-mails do Gmail (Finalizar):** https://bit.ly/3RCA4ZQ
+
 ----
