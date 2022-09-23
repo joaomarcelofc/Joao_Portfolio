@@ -24,7 +24,7 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 * **Panorama do COVID-19 no Brasil e no mundo:** https://bit.ly/3Rfaiuo
 
-* **Utilizando Python para manipulação de Excel:** 
+* **Utilizando Python para manipulação de Excel:** https://bit.ly/3feD4NS
 
 * **Estudando estatística básica com Python:**
 
