@@ -26,6 +26,6 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 * **Utilizando Python para manipulação de Excel:** https://bit.ly/3feD4NS
 
-* **Estudando estatística básica com Python:**
+* **Estudando estatística básica com Python:** https://bit.ly/3dA7w4u
 
 ----
