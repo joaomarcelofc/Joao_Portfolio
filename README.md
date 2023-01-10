@@ -29,4 +29,10 @@ Vivência em empresas de grande porte nos segmentos automobilísticos, mineraç�
 
 * **Estudando estatística básica com Python:** https://bit.ly/3DKhoDu
 
+## Projetos Machine Learning:
+
+* **Detecção de Fraude em Cartão de Crédito com Machine Learning:** https://bit.ly/3QtgNKE
+
+* **Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning:** https://bit.ly/3QAUIdm
+
 ----
