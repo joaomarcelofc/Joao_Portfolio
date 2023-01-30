@@ -40,4 +40,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction)**
 
+## Projetos Web Scraping com Python:
+
+* **[Web scraping com Scrapy, Selenium e Beautiful Soup](https://github.com/joaomarcelofc/webscraping)**
+
 ----
