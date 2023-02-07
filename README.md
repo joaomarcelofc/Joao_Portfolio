@@ -20,8 +20,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/joão-marcelo-fonseca-cunha-097776a2/)
-* [Medium](https://medium.com/@jmfonsecacunha)
+* **[LinkedIn](https://www.linkedin.com/in/joão-marcelo-fonseca-cunha-097776a2/)**
+* **[Medium](https://medium.com/@jmfonsecacunha)**
 
 
 ## Projetos:
@@ -39,6 +39,12 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 * **[Detecção de Fraude em Cartão de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito)**
 
 * **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction)**
+
+## Projetos Deep Learning:
+
+* **[Classificador de Fake News com Deep Learning (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Fake_News)**
+
+* **[Prevendo preços de imóveis com Redes Neurais (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Preco_Imoveis)**
 
 ## Projetos Web Scraping com Python:
 
