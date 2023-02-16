@@ -22,7 +22,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[LinkedIn](https://www.linkedin.com/in/joão-marcelo-fonseca-cunha-097776a2/)**
 * **[Medium](https://medium.com/@jmfonsecacunha)**
-* **[Currículo](https://www.dropbox.com/s/tyauazj6zoj4cyc/Jo%C3%A3o%20Marcelo%20-%20Curr%C3%ADculo.pdf?dl=1)**
+* **[Currículo](https://www.dropbox.com/s/0ldykjd0ok3juki/Joao_Marcelo_Curr%C3%ADculo.pdf?dl=1)**
 
 
 ## Projetos:
