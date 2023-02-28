@@ -47,6 +47,9 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Prevendo preços de imóveis com Redes Neurais (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Preco_Imoveis)**
 
+* **[Classificação de roupas com Deep Learning (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Clothes_Classification/blob/main/Classifica%C3%A7%C3%A3o_de_Roupas_usando_Deep_Learning.ipynb)**
+
+
 ## Projetos Web Scraping com Python:
 
 * **[Web scraping com Scrapy, Selenium e Beautiful Soup](https://github.com/joaomarcelofc/webscraping)**
