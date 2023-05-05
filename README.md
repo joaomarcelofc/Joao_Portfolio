@@ -55,6 +55,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Classificação de roupas com Deep Learning (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Clothes_Classification/blob/main/Classifica%C3%A7%C3%A3o_de_Roupas_usando_Deep_Learning.ipynb)**
 
+* **[Reconhecimento de números com Deep Learning/gradio](https://github.com/joaomarcelofc/Deep_Learning_gradio)**
+
 
 ## Projetos Web Scraping com Python:
 
