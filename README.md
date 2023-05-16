@@ -47,6 +47,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction)**
 
+* **[Análise de Risco de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Analise_Risco_de_Credito/blob/main/Projeto_Analise_Risco_Credito_JM_V2.ipynb)**
+
 ## Projetos Deep Learning:
 
 * **[Classificador de Fake News com Deep Learning (Material SIGMOIDAL)](https://github.com/joaomarcelofc/Deep_Learning_Fake_News)**
