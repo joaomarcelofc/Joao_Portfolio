@@ -41,6 +41,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Forecasting com Time Series](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Forecasting_Series_Temporais_Prophet_JM.ipynb)**
 
+* **[Analytics Web App com R: Analisando dados da Netflix](https://github.com/joaomarcelofc/Analytics_Web_App_com_R)**
+
 ## Projetos Machine Learning:
 
 * **[Detecção de Fraude em Cartão de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito)**
