@@ -66,4 +66,6 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Web scraping com Scrapy, Selenium e Beautiful Soup](https://github.com/joaomarcelofc/webscraping)**
 
+* **[Extraindo tweets com Python e visualizando em wordcloud](https://github.com/joaomarcelofc/Twitter_API_Python)**
+
 ----
