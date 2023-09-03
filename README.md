@@ -44,6 +44,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Analytics Web App com R: Analisando dados da Netflix](https://github.com/joaomarcelofc/Analytics_Web_App_com_R)**
 
+* **[Machine Learning em Marketing Digital com R: Prevendo número de usuários convertidos](https://github.com/joaomarcelofc/Machine_Learning_Marketing_Digital_R)**
+
 ## Projetos Machine Learning:
 
 * **[Detecção de Fraude em Cartão de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito)**
