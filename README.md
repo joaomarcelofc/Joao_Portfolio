@@ -5,7 +5,7 @@
 </p>
 
 # João Marcelo
-<sub>*Contador pós-graduando em Big Data & Data Science</sub>
+<sub>*Contador pós-graduado em Big Data & Data Science pela PUC - MG</sub>
 
 Sou graduado em Ciências Contábeis pela Universidade FUMEC, com experiência de dez anos em auditoria, contabilidade, controladoria e controles internos. Experiência de atuação como auditor em Big Four, nomenclatura utilizada para se referir às quatro maiores empresas especializadas em auditoria e consultoria do mundo.
 
