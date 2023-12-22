@@ -25,7 +25,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 * **[CV/Resume (English)](https://www.dropbox.com/scl/fi/alumqup0xngiyclbz2ljw/Jo-o_Marcelo_Fonseca_Cunha_-_Accountant.pdf?rlkey=3ury3s89vxdxprntld76vo29t&dl=1)**
 
 
-## Projetos:
+## Projetos Análise de Dados:
 
 * **[Analisando dados do Airbnb de Atenas](https://github.com/joaomarcelofc/Analisando_Dados_Airbnb_Atenas)**
 
