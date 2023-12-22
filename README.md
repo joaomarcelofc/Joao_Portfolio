@@ -16,7 +16,6 @@ Em 2022 iniciei meus estudos em data science e big data. Sempre gostei de trabal
 
 Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafiadora jornada de estudos! 
 
-**Background in:** Auditoria, Controladoria, Tax, IFRS, Python.
 
 **Links:**
 
@@ -42,6 +41,14 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Forecasting com Time Series](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Forecasting_Series_Temporais_Prophet_JM.ipynb)**
 
+* **[Analise exploratória, data wrangling, engenharia de atributos e pré-processamento de dados para e-commerce](https://github.com/joaomarcelofc/Analise_Exploratoria_Data_Wrangling_Feature_Engineering_ecommerce)**
+
+* **[Manipulacao de Dados com SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL e Docker](https://github.com/joaomarcelofc/Manipulacao_Dados_SparkSQL_PandaSQL_SQLAlchemy__PostgreSQL_Docker)**
+
+* **[Data Science Aplicada em Logística com Spark SQL](https://github.com/joaomarcelofc/Data_Science_Logistica_SparkSQL)**
+
+
+## Projetos Linguagem R:
 * **[Analytics Web App com R: Analisando dados da Netflix](https://github.com/joaomarcelofc/Analytics_Web_App_com_R)**
 
 * **[Machine Learning em Marketing Digital com R: Prevendo número de usuários convertidos](https://github.com/joaomarcelofc/Machine_Learning_Marketing_Digital_R)**
@@ -53,6 +60,21 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 * **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction)**
 
 * **[Análise de Risco de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Analise_Risco_de_Credito/blob/main/Projeto_Analise_Risco_Credito_JM_V2.ipynb)**
+
+* **[Modelo Preditivo Doenca Hepatica - Modelo de Classificacao](https://github.com/joaomarcelofc/Modelo_Preditivo_Doenca_Hepatica_Classificacao)**
+
+* **[Modelo Preditivo e-Commerce - Modelo de Regressao](https://github.com/joaomarcelofc/Modelo_Preditivo_eCommerce_Regressao)**
+
+* **[Cotacao de Criptomoeda Real Time com Pyspark - Machine Learning](https://github.com/joaomarcelofc/Cotacao_Criptomoeda_Real_Time_Pyspark_Machine_Learning)**
+
+* **[Machine Learning na Engenharia Civil com Apache Spark – Automação de preparação de dados](https://github.com/joaomarcelofc/Machine_Learning_Apache_Spark_Automacao)**
+
+* **[Análise de Dados com Linguagem SQL e PySpark no Google Colab](https://github.com/joaomarcelofc/Analise_Dados_SQL_Pyspark_Google_Colab)**
+
+* **[Análise de Dados de Sensores IoT em Tempo Real com Apache Spark Streaming e Apache Kafka](https://github.com/joaomarcelofc/Analise_Sensores_IoT_Real_Time_Spark_Streaming_Apache_Kafka)**
+
+* **[Sistema de Recomendação Spotify em Tempo Real com Machine Learning, PySpark, Spark Streaming e Kafka](https://github.com/joaomarcelofc/Recomendacao_Spotify_Real_Time_MachineLearning_Pyspark_SparkStreaming_Kafka)**
+
 
 ## Projetos Deep Learning:
 
