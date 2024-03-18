@@ -47,6 +47,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Data Science Aplicada em Logística com Spark SQL](https://github.com/joaomarcelofc/Data_Science_Logistica_SparkSQL)**
 
+* **[Processamento de Linguagem Natural (PLN) e suas aplicações] incluir projeto**
+
 
 ## Projetos Linguagem R:
 * **[Analytics Web App com R: Analisando dados da Netflix](https://github.com/joaomarcelofc/Analytics_Web_App_com_R)**
@@ -75,6 +77,8 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Sistema de Recomendação Spotify em Tempo Real com Machine Learning, PySpark, Spark Streaming e Kafka](https://github.com/joaomarcelofc/Recomendacao_Spotify_Real_Time_MachineLearning_Pyspark_SparkStreaming_Kafka)**
 
+* **[Agrupando clientes por Consumo de Energia com Algoritmo K-Means] incluir projeto**
+
 
 ## Projetos Deep Learning:
 
@@ -86,11 +90,25 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Reconhecimento de números com Deep Learning/gradio](https://github.com/joaomarcelofc/Deep_Learning_gradio)**
 
+* **[Rede Neural com TensorFlow Para Classificação de Imagens de Vestuário](incluir projeto)**
+
+* **[Rede Neural com TensorFlow Para Classificação de Imagens de Vestuário](incluir projeto)**
+
+* **[Classificação de Imagens com Deep Learning e PyTorch](incluir projeto)**
+
+* **[Deploy do Modelo Deep Learning em Aplicação Web](incluir projeto)**
+
 
 ## Projetos Web Scraping com Python:
 
 * **[Web scraping com Scrapy, Selenium e Beautiful Soup](https://github.com/joaomarcelofc/webscraping)**
 
 * **[Extraindo tweets com Python e visualizando em wordcloud](https://github.com/joaomarcelofc/Twitter_API_Python)**
+
+## Projetos Hadoop:
+
+* **[Incluir projetos Hadoop] incluir projetos**
+
+
 
 ----
