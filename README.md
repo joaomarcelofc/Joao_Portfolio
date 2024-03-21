@@ -25,6 +25,11 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 * **[CV/Resume (English)](https://www.dropbox.com/scl/fi/alumqup0xngiyclbz2ljw/Jo-o_Marcelo_Fonseca_Cunha_-_Accountant.pdf?rlkey=3ury3s89vxdxprntld76vo29t&dl=1)**
 
 
+## TCC - Ciência de Dados e Big Data - PUC-MG :
+
+* **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/TCC_PUCMG_2022)**
+
+
 ## Projetos Análise de Dados:
 
 * **[Analisando dados do Airbnb de Atenas](https://github.com/joaomarcelofc/Analisando_Dados_Airbnb_Atenas)**
@@ -105,10 +110,10 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Extraindo tweets com Python e visualizando em wordcloud](https://github.com/joaomarcelofc/Twitter_API_Python)**
 
+
 ## Projetos Hadoop:
 
 * **[Incluir projetos Hadoop] incluir projetos**
-
 
 
 ----
