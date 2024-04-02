@@ -101,8 +101,6 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Classificação de Imagens com Deep Learning e PyTorch](incluir projeto)**
 
-* **[Deploy do Modelo Deep Learning em Aplicação Web](incluir projeto)**
-
 
 ## Projetos Web Scraping com Python:
 
