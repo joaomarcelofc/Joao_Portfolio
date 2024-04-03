@@ -82,7 +82,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Sistema de Recomendação Spotify em Tempo Real com Machine Learning, PySpark, Spark Streaming e Kafka](https://github.com/joaomarcelofc/Recomendacao_Spotify_Real_Time_MachineLearning_Pyspark_SparkStreaming_Kafka)**
 
-* **[Agrupando clientes por Consumo de Energia com Algoritmo K-Means] incluir projeto**
+* **[Agrupando clientes por Consumo de Energia com Algoritmo K-Means](https://github.com/joaomarcelofc/Agrupando_Clientes_Consumo_Energia_K-Means/blob/main/README.md)**
 
 
 ## Projetos Deep Learning:
