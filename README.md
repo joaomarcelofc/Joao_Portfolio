@@ -52,7 +52,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Data Science Aplicada em Logística com Spark SQL](https://github.com/joaomarcelofc/Data_Science_Logistica_SparkSQL)**
 
-* **[Processamento de Linguagem Natural (PLN) e suas aplicações] incluir projeto**
+* **[Processamento de Linguagem Natural (PLN) e suas aplicações](https://github.com/joaomarcelofc/Processamento_Linguagem_Natural_PLN/blob/main/README.md)**
 
 
 ## Projetos Linguagem R:
