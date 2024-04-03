@@ -96,11 +96,9 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Reconhecimento de números com Deep Learning/gradio](https://github.com/joaomarcelofc/Deep_Learning_gradio)**
 
-* **[Rede Neural com TensorFlow Para Classificação de Imagens de Vestuário](incluir projeto)**
+* **[Rede Neural com TensorFlow Para Classificação de Imagens de Vestuário](https://github.com/joaomarcelofc/Processamento_Linguagem_Natural_PLN/blob/main/README.md)**
 
-* **[Rede Neural com TensorFlow Para Classificação de Imagens de Vestuário](incluir projeto)**
-
-* **[Classificação de Imagens com Deep Learning e PyTorch](incluir projeto)**
+* **[Classificação de Imagens com Deep Learning e PyTorch](https://github.com/joaomarcelofc/Classificacao_Imagens_Deep_Learning_PyTorch/blob/main/README.md)**
 
 
 ## Projetos Web Scraping com Python:
