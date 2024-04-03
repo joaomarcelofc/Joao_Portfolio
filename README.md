@@ -84,6 +84,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Agrupando clientes por Consumo de Energia com Algoritmo K-Means](https://github.com/joaomarcelofc/Agrupando_Clientes_Consumo_Energia_K-Means/blob/main/README.md)**
 
+* **[Utilizando Algoritmo SVM Para Prever a Intenção de Compra de Usuários de E-Commerce](https://github.com/joaomarcelofc/SVM_Compra_Usuarios_E-Commerce/blob/main/README.md)**
 
 ## Projetos Deep Learning:
 
