@@ -110,7 +110,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 ## Projetos Hadoop:
 
-* **[Incluir projetos Hadoop] incluir projetos**
+* **[Manuais de instalação e projetos utilizando Hadoop](https://github.com/joaomarcelofc/Hadoop/tree/main)**
 
 
 ----
