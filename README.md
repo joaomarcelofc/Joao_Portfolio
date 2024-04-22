@@ -54,6 +54,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Processamento de Linguagem Natural (PLN) e suas aplicações](https://github.com/joaomarcelofc/Processamento_Linguagem_Natural_PLN/blob/main/README.md)**
 
+* **[Dashboard Finaceiro Interativo Para Previsões com Machine Learning](https://github.com/joaomarcelofc/Dashboard_Financeiro/tree/main)**
 
 ## Projetos Linguagem R:
 * **[Analytics Web App com R: Analisando dados da Netflix](https://github.com/joaomarcelofc/Analytics_Web_App_com_R)**
