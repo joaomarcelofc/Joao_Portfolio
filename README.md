@@ -69,8 +69,6 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Análise de Risco de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Analise_Risco_de_Credito/blob/main/Projeto_Analise_Risco_Credito_JM_V2.ipynb)**
 
-* **[Modelo Preditivo Doenca Hepatica - Modelo de Classificacao](https://github.com/joaomarcelofc/Modelo_Preditivo_Doenca_Hepatica_Classificacao)**
-
 * **[Modelo Preditivo e-Commerce - Modelo de Regressao](https://github.com/joaomarcelofc/Modelo_Preditivo_eCommerce_Regressao)**
 
 * **[Cotacao de Criptomoeda Real Time com Pyspark - Machine Learning](https://github.com/joaomarcelofc/Cotacao_Criptomoeda_Real_Time_Pyspark_Machine_Learning)**
