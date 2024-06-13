@@ -65,8 +65,6 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Detecção de Fraude em Cartão de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Fraude_Cartao_Credito)**
 
-* **[Aplicação de Churn Prediction em Empresa de Telecomunicações com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Churn_Prediction)**
-
 * **[Análise de Risco de Crédito com Machine Learning](https://github.com/joaomarcelofc/Machine_Learning_Analise_Risco_de_Credito/blob/main/Projeto_Analise_Risco_Credito_JM_V2.ipynb)**
 
 * **[Modelo Preditivo e-Commerce - Modelo de Regressao](https://github.com/joaomarcelofc/Modelo_Preditivo_eCommerce_Regressao)**
