@@ -40,11 +40,7 @@ Enfim, compartilho aqui alguns projetos de Data Science realizados nessa desafia
 
 * **[Estudando estatística básica com Python](https://github.com/joaomarcelofc/Estatistica_Basica_Python)**
 
-* **[Séries temporais (Time Series)](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/S%C3%A9ries_Temporais_(Time_Series)_JM.ipynb)**
-
-* **[Time Series e Prophet](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Times_Series_Prophet_JM.ipynb)**
-
-* **[Forecasting com Time Series](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Forecasting_Series_Temporais_Prophet_JM.ipynb)**
+* **[Time Series e Prophet](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/README.md)**
 
 * **[Analise exploratória, data wrangling, engenharia de atributos e pré-processamento de dados para e-commerce](https://github.com/joaomarcelofc/Analise_Exploratoria_Data_Wrangling_Feature_Engineering_ecommerce)**
 
